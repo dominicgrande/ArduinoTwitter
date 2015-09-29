@@ -6,8 +6,8 @@
 byte mac[] = { 0x90, 0xA2, 0xDA, 0x0E, 0x92, 0xA4 };
 byte ip[] = { 192, 168, 100, 9 };
 
-Twitter twitter("Replcae this text with your token");
-char msg[] = "Hello from Arduino & Ethernet Shield!";
+Twitter twitter("3810814037-KusNwUKamf8cBPcGB78RuzlbmQFqizZGwjvUGo0");
+char msg[] = "I am currently eating some delicious food!";
 
 void setup()
 {
